@@ -1,0 +1,1 @@
+Region(1797,613,268,167).find(Pattern("1418275582380.png").similar(0.98))
