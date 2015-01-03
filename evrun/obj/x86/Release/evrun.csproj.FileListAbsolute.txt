@@ -1,0 +1,12 @@
+C:\Users\anmont1\documents\visual studio 2010\Projects\evrun\evrun\bin\Release\evrun.exe
+C:\Users\anmont1\documents\visual studio 2010\Projects\evrun\evrun\bin\Release\evrun.pdb
+C:\Users\anmont1\documents\visual studio 2010\Projects\evrun\evrun\bin\Release\Ionic.Zip.dll
+C:\Users\anmont1\documents\visual studio 2010\Projects\evrun\evrun\bin\Release\SikuliModule.dll
+C:\Users\anmont1\documents\visual studio 2010\Projects\evrun\evrun\bin\Release\System.Drawing.dll
+C:\Users\anmont1\documents\visual studio 2010\Projects\evrun\evrun\bin\Release\SikuliModule.pdb
+C:\Users\anmont1\documents\visual studio 2010\Projects\evrun\evrun\obj\x86\Release\evrun.Form1.resources
+C:\Users\anmont1\documents\visual studio 2010\Projects\evrun\evrun\obj\x86\Release\evrun.Properties.Resources.resources
+C:\Users\anmont1\documents\visual studio 2010\Projects\evrun\evrun\obj\x86\Release\evrun.csproj.GenerateResource.Cache
+C:\Users\anmont1\documents\visual studio 2010\Projects\evrun\evrun\obj\x86\Release\evrun.exe
+C:\Users\anmont1\documents\visual studio 2010\Projects\evrun\evrun\obj\x86\Release\evrun.pdb
+C:\Users\anmont1\documents\visual studio 2010\Projects\evrun\evrun\obj\x86\Release\evrun.csprojResolveAssemblyReference.cache
